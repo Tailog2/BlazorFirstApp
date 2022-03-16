@@ -14,4 +14,8 @@
     <ProjectReference Include="..\DataAccessLibary\DataAccessLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
 </Project>
